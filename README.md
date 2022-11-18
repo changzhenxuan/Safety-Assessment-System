@@ -9,23 +9,21 @@ A student's playing work.
 
 - 扫描本地端口：多线程扫描，测试结果：
 
-  ![portScanResult](image\portScanResult.png)
-
-  
+  <a href="https://sm.ms/image/ZDrm5Uhbd9o4CEg" target="_blank"><img src="https://s2.loli.net/2022/11/19/ZDrm5Uhbd9o4CEg.png" ></a>
 
 - 或取本地浏览器的数据、书签(收藏夹)
 
   - 历史记录的url：
 
-    ![browserHistory](image\browserHistory.png)
+    <a href="https://sm.ms/image/krcQ57i3f6Omqx8" target="_blank"><img src="https://s2.loli.net/2022/11/19/krcQ57i3f6Omqx8.png" ></a>
 
   - 书签(收藏夹)中的url：
 
-    ![browserBookmark](image\browserBookmark.png)
+    <a href="https://sm.ms/image/YNv6Wapw2eBjbKO" target="_blank"><img src="https://s2.loli.net/2022/11/19/YNv6Wapw2eBjbKO.png" ></a>
 
 - 扫描指定路径的病毒：pyclamd连接本地clamd，测试结果：
 
-  ![clamdScanResult1](image\clamdScanResult1.png)
+  <a href="https://sm.ms/image/lyGDxURdvOh2WoM" target="_blank"><img src="https://s2.loli.net/2022/11/19/lyGDxURdvOh2WoM.png" ></a>
 
 二、即将实现功能：
 
