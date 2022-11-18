@@ -24,6 +24,8 @@ A student's playing work.
 - 扫描指定路径的病毒：pyclamd连接本地clamd，测试结果：
 
   <a href="https://sm.ms/image/lyGDxURdvOh2WoM" target="_blank"><img src="https://s2.loli.net/2022/11/19/lyGDxURdvOh2WoM.png" ></a>
+  
+  <a href="https://sm.ms/image/D6usHfietr8g3In" target="_blank"><img src="https://s2.loli.net/2022/11/19/D6usHfietr8g3In.png" ></a>
 
 二、即将实现功能：
 
