@@ -12,7 +12,7 @@ def main():
     scanner.show_target_ports()
     scanner.show_delay()
     scanner.show_top_k_ports(100)
-    output = scanner.scan(host_name, message)
+    output = scanner.scan(host_name)
     
 if __name__ == "__main__":
     main()

@@ -34,5 +34,6 @@ if __name__=='__main__':
     EDGE_PATH = "C:/Users/czx/AppData/Local/Microsoft/Edge/User Data/Default"
     # bm = BookMark(EDGE_PATH)
     bm = BookMark(CHROME_PATH)
+    print("urls in bookmark:")
     bm.get_folder_urls()
     

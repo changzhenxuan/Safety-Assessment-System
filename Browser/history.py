@@ -52,6 +52,7 @@ if __name__=='__main__':
     his = History(CHROME_KILL, CHROME_PATH)
     
     his_urls = his.get_history_urls()
+    print("history urls in chrome:")
     for url in his_urls:
         print(url)
     
